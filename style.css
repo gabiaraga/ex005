@@ -1,0 +1,45 @@
+body {
+background-color: burlywood;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size:xx-large;
+  border: 2px;
+  background-color: darkgoldenrod;
+  color: white ;
+}
+
+small {
+  color: rgb(172, 34, 34);
+}
+
+
+body h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  color: rgb(116, 40, 5);
+}
+
+input[required] {
+  border: 2px solid rgb(236, 190, 190);
+  color: rgb(80, 71, 71);
+}
+
+button {
+  background-color: coral;
+  font-style: oblique;
+}
+
+.p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic;
+}
+
+fieldset {
+  border: 3px solid rgb(209, 187, 199) ;
+}
